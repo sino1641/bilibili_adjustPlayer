@@ -5,6 +5,7 @@
 // @license     GPL-3.0-or-later
 // @homepageURL https://github.com/kkren/bilibili_adjustPlayer
 // @include     http*://www.bilibili.com/video/av*
+// @include     http*://www.bilibili.com/video/BV*
 // @include     http*://www.bilibili.com/watchlater/*
 // @include     http*://www.bilibili.com/medialist/play/*
 // @include     http*://www.bilibili.com/bangumi/play/ep*
