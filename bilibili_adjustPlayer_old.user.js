@@ -4,7 +4,8 @@
 // @author      mickey7q7
 // @license     MIT License
 // @homepageURL https://github.com/mickey7q7/bilibili_adjustPlayer
-// @include     http*://www.bilibili.com/video/av*
+// @include     http*://www.bilibili.com/video/bv*
+// @include     http*://www.bilibili.com/video/BV*
 // @include     http*://www.bilibili.com/watchlater/*
 // @include     http*://www.bilibili.com/bangumi/play/ep*
 // @include     http*://www.bilibili.com/bangumi/play/ss*
